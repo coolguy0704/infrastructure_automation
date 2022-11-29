@@ -4,8 +4,8 @@ Infrastructure automation using python paramiko modules. Login to each server/VM
 
 Execution example:
 
-$ python paramiko <username> <key_file_location>
+$ python paramiko  <user_name>  <key_file_location>
 
-username: will the username to be used to login to server
+user_name: will the username to be used to login to server
   
 key_file_location: key file used to login to server

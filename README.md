@@ -7,4 +7,5 @@ Execution example:
 $ python paramiko <username> <key_file_location>
 
 username: will the username to be used to login to server
+  
 key_file_location: key file used to login to server

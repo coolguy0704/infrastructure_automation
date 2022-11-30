@@ -9,3 +9,7 @@ $ python paramiko  <user_name>  <key_file_location>
 user_name: will the username to be used to login to server
   
 key_file_location: key file used to login to server
+
+host_list: contains the target ip addresses
+
+command_list: contains commands to be run 
